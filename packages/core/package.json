@@ -1,6 +1,6 @@
 {
   "name": "@mistyhill-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "雾山架构",
   "keywords": [
     "mistyhill"
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mistyhill-cli/utils": "^1.0.0"
+    "@mistyhill-cli/utils": "^1.0.3"
   },
   "bin": {
     "hill": "bin/index.js"
